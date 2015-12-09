@@ -7,6 +7,6 @@ Utilisation des Termcaps.
 
 # Usages
 
-> set reponse = `ft_select choix1 choix2 choix3 choix4`
+> set reponse = \`ft_select choix1 choix2 choix3 choix4\`
 
-> ls `ft_select *`
+> ls \`ft_select *\`
